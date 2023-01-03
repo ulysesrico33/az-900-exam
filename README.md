@@ -16,3 +16,7 @@
 - https://www.skillpipe.com/#/account/login
    - User : rpruparel@live.com
    - Pwd : XCV876hgfd
+   
+# See wiki
+
+For more detailed info go to wiki in this repo
