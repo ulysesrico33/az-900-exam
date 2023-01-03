@@ -13,9 +13,6 @@
 
 # Other links
 
-- https://www.skillpipe.com/#/account/login
-   - User : rpruparel@live.com
-   - Pwd : XCV876hgfd
 - https://www.examtopics.com/exams/microsoft/az-900/   
    
    
