@@ -1,6 +1,8 @@
 # Overview
 
-This az 900 exam repo doesn't include code, but shows the strategy I followed to pass it.
+- This az 900 exam repo doesn't include code, but shows the strategy I followed to pass it.
+- Date when I know I had to do exam : Oct 17th 2022
+- Date of exam : Dec 17th 2022 :)
 
 # Strategy
 
