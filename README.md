@@ -13,7 +13,7 @@
 
 # Other links
 
-- https://www.examtopics.com/exams/microsoft/az-900/   
+- [Exam topics > Microsoft AZ-900 Exam](https://www.examtopics.com/exams/microsoft/az-900/)   
    
    
 # See wiki
