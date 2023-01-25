@@ -13,7 +13,13 @@
 
 # Other links
 
-- [Exam topics > Microsoft AZ-900 Exam](https://www.examtopics.com/exams/microsoft/az-900/)   
+- [Exam topics > Microsoft AZ-900 Exam](https://www.examtopics.com/exams/microsoft/az-900/)  
+
+# Exam sections
+
+- Describe cloud concepts (25–30%)
+- Describe Azure architecture and services (35–40%)
+- Describe Azure management and governance (30–35%)
    
    
 # See wiki
