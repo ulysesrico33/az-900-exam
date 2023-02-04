@@ -8,7 +8,7 @@
 
 - Take simulations exams from udemy (AZ 900 tests course)
 - Read a guide : [AZURE+FUNDAMENTALS.pdf](https://github.com/ulysesrico33/az-900-exam/files/10339054/AZURE%2BFUNDAMENTALS.pdf)
-- I study for 2 months, alternating days, so 30 days of net study.
+- **I study for 2 months, alternating days, so 30 days of net study.** (Exam passed !)
 - [AZ 900 Youtube list](https://youtube.com/playlist?list=PLcE6iQkoRxhaLJHY1ZqQGtCdh8moyvzm1)
 
 ![image](https://user-images.githubusercontent.com/16261895/216748161-4cb4bcc8-781f-402a-9810-94f3f90a479a.png)
