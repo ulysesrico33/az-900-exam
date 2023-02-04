@@ -11,6 +11,8 @@
 - I study for 2 months, alternating days, so 30 days of net study.
 - [AZ 900 Youtube list](https://youtube.com/playlist?list=PLcE6iQkoRxhaLJHY1ZqQGtCdh8moyvzm1)
 
+![image](https://user-images.githubusercontent.com/16261895/216748161-4cb4bcc8-781f-402a-9810-94f3f90a479a.png)
+
 # Other links
 
 - [Exam topics > Microsoft AZ-900 Exam](https://www.examtopics.com/exams/microsoft/az-900/)  
